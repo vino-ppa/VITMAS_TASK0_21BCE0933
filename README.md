@@ -1,4 +1,4 @@
-# VITMAS_TASK0_21BCE0933
+# VITMAS_Task0_(21BCE0933)
 ## Git commands  
 ### git config --global user.name 
 -> This command sets the author name for future git commits.  
